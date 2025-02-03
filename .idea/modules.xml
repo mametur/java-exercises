@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/data-structure/DataStructureModuleLab.iml" filepath="$PROJECT_DIR$/data-structure/DataStructureModuleLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/creating-a-zoo/creating-a-zoo.iml" filepath="$PROJECT_DIR$/creating-a-zoo/creating-a-zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapLap/hashMapLap.iml" filepath="$PROJECT_DIR$/hashMapLap/hashMapLap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/text-editor-undo/text-editor-undo.iml" filepath="$PROJECT_DIR$/text-editor-undo/text-editor-undo.iml" />
     </modules>
